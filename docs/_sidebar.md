@@ -3,4 +3,4 @@
 </a>
 
 * Elicitação
-    * [Rich-Picture](../Elicitacao/RichPicture)
+    * [Rich-Picture](./Elicitacao/RichPicture)
