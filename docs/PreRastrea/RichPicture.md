@@ -1,4 +1,4 @@
-## RichPicture oque é?
+# RichPicture oque é?
 
 É uma ferramenta visual poderosa e flexível que ajuda na compreensão e na gestão de sistemas complexos, promovendo uma visão ampla e integrada que pode ser explorada e analisada por diferentes partes interessadas.
 
@@ -8,13 +8,36 @@ Abaixo serão listadas os Rich Pictures para cada escopo do sistema Moovit.
 
 
 
-## Sistema de Rastreamento
+## Sistema Moovit
 
-É extraido do site oficial que o sistema contém uma aplicação de rastreamento, o mesmo é agredado com as informações obtidas pela empresa de transporte público responsável, ou os próprios mooviters que ajudam a sempre estarem atualizando sobre as linhas.
+| Versão          | Descrição |
+|-----------------|---------- |
+| 1ª Versão       | Descrição |
+
+![Primeira Versão](../assets/Rich-picture/RichPicture%20MoovitV1.png)
+
+### Sistema de Rastreamento
+---
+
+| Versão          | Descrição |
+|-----------------|---------- |
+| 1ª Versão       | É extraido do site oficial que o sistema contém uma aplicação de rastreamento, o mesmo é agredado com as informações obtidas pela empresa de transporte público responsável, ou os próprios mooviters que ajudam a sempre estarem atualizando sobre as linhas.|
+
+
 
 --- 
 
 ![Sistema-de-Rastreamento](../assets/Rich-picture/Sistema-Rastreamento.png)
+
+---
+
+| Versão          | Descrição |
+|-----------------|---------- |
+| 2ª Versão       | Após debates com a equipe e o enquadramento do mapa mental, foi revelado algumas inconsistências nos fluxos   entre os componentes ( além do novo componente "mooviters" ), então obtivemos esse resultado.|
+
+---
+
+![Sistema-de-Rastreamento](../assets/Rich-picture/Sistema-Rastreamento2.png)
 
 
 

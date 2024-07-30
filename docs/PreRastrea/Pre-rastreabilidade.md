@@ -5,8 +5,10 @@ Pré-rastreabilidade é o conjunto de atividades realizadas antes da implementa�
 Algumas das técnicas para a identificação e rastreabilidade dos requisisitos foram:
 
 [Rich-Picture](./PreRastrea/RichPicture.md)
-[Mapa-Mental]
+[Mapa-Mental](./PreRastrea/Mapa-Mental.md)
 [Introspeção]
+
+
 
 
 ---

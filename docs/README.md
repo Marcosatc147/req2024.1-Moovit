@@ -49,7 +49,7 @@ Ao decorrer da maturidade do projeto iremos utilizar as tecnologias e ferramenta
     height: 120px;
     border-radius: 50%;
     object-fit: cover;
-    border: 3px solid #fff; /* Ajuste a cor da borda conforme necessário */
+    border: 3px solid #fff; 
 }
 
 .team-member .name {
