@@ -1,25 +1,36 @@
 # Engenharia de Requisitos - Moovit
+
 Repositório para a disciplina de Requisitos de Software na UnB FGA - Professor Maurício Serrano
 
+---
 # Oque é Moovit?
+
 
 Moovit, uma empresa da Mobileye, é o líder global em Mobilidade como Serviço (MaaS) e app de mobilidade urbana mais usado do mundo
 
 
 Ajudamos as pessoas a chegar onde desejam da maneira mais simples e fácil, planejando viagens que combinam múltiplas opções de transporte, com informações em tempo real e pagamento direto no app.
 
-Trabalhamos com governos, operadores de transporte público e empresas para superar os desafios da mobilidade, implementando soluções de inteligência artificial para planejamento, operação e avaliação. As ferramentas do Moovit reduzem congestionamentos, ampliam o número de passageiros e aumentam a eficiência, fazendo com que mais gente use transporte público e mobilidade compartilhada.
+---
 
-O Moovit foi lançado em 2012 como aplicativo gratuito de Android, iOS e na web para guiar as pessoas de maneira simples e eficiente, combinando diversos meios de transporte. Ao longo dos anos conquistamos mais de 1.7B de usuários em 3,500 cidades de 112 países, e estamos disponíveis em 45 idiomas.
+# Ferramentas Utilizadas
 
-Ajudamos as pessoas a usar a mobilidade ao integrar todos as formas de transporte no Moovit, incluindo transporte público, bicicletas e patinetes compartilhados, serviços de caronas compartilhadas (Uber/Lift) e muito mais. O Moovit reúne informações oficiais das autoridades e operadores de transporte público junto aos dados da nossa comunidade para oferecer a melhor rota em tempo real.
+Ao decorrer da maturidade do projeto iremos utilizar as tecnologias e ferramentas abaixo:
+
+| Ferramenta                                                                                           | Função |
+|------------------------------------------------------------------------------------------------------|--------|
+| <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" alt="Ferramenta A" style="width: 50px;"/> | Comunicação com os integrantes|
+| <img src="https://rushvideo.com.br/wp-content/uploads/2022/10/canvarush.png" alt="Canva" style="width: 50px;"/> | Auxílio para o desenvolvimento de artefatos|
+| <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" style="width: 50px;"/>| Comunicação e organização dos integrantes |
+| <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" style="width: 50px;"/>| Deploy da documentação e versionamento de código |
+| <img src="https://w7.pngwing.com/pngs/134/448/png-transparent-microsoft-teams-hd-logo-thumbnail.png" alt="Docs" style="width: 50px;"/>| Gravação de reuniões|
+| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ87kGIjUMipBUX3d1eK54knd1x5lxYxN1wYg&s" alt="Docs" style="width: 50px;"/>| Usado para documentação que converte arquivos Markdown em sites estáticos.|
 
 
-O Moovit agrega 6B de pontos de dados por dia ao maior repositório global de dados sobre transporte público. Este processo é auxiliado pela rede global de 875,000 de editores do Moovit, os Mooviters. Esses usuários dedicados ajudam a mapear e manter atualizadas informações de diversas cidades pelo mundo, algumas que não teriam esses dados de outra forma. Os Mooviters são responsáveis por mapear 77% das centenas de cidades a que o Moovit chega todos os anos, criando uma verdadeira “Wikipedia do transporte público”.
 
-
+---
 # Integrantes
-
+---
 <style>
 
 .row {
