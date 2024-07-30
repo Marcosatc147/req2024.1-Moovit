@@ -6,5 +6,5 @@ Abaixo serão listadas os Rich Pictures para cada escopo do sistema Moovit.
 
 ### Sistema de Rastreamento
 
-![Sistema-de-Rastreamento](../assets/Rich-picture/Sistema-Rastreamento.jpeg)
+![Sistema-de-Rastreamento](../assets/Rich-picture/Sistema-Rastreamento.png)
 
