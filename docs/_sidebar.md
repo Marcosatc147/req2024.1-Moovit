@@ -4,6 +4,7 @@
 
 * [Home]()
 
+* [Visão do Produto](./VisaoProduto/visaoProduto.md)
 
 * [Pré-Rastreabilidade](./PreRastrea/Pre-rastreabilidade.md) 
     * [- Rich-Picture](./PreRastrea/RichPicture.md)
