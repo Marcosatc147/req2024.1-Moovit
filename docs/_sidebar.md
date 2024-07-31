@@ -10,6 +10,7 @@
     * [- Rich-Picture](./PreRastrea/RichPicture.md)
     * [- Mapa Mental](./PreRastrea/Mapa-Mental.md)
     * [- Baseline](./PreRastrea/Baseline.md)
+    * [- Argumentação](./PreRastrea/Argumetacao.md)
 
 * [Elicitação](./Elicitacao/Elicitacao.md)
     * [- Cenário e Léxico](./Elicitacao/CenarioLex.md)
