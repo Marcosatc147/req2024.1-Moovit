@@ -1,0 +1,30 @@
+# Baseline
+
+Durante a reunião, com os integrantes e compartilharem em suas perspectivas e conhecimentos adquiridos, contribuindo para uma visão abrangente e clara dos requisitos necessários para o sucesso do projeto. O principal objetivo era consolidar em um conjunto de requisitos documentados e acordados, que servirão como referência oficial para o desenvolvimento e futuras validações do sistema. O resultado foi:
+
+---
+
+|ID | Descrição|
+|---|---|
+| RF01|Deve permitir que os usuários busquem rotas de transporte público. |
+| RF02|Deve fornecer informações em tempo real sobre horários de chegada dos ônibus. |
+| RF03|Deve exibir diferentes rotas de transporte público disponíveis para um determinado destino. |
+| RF04|Deve permitir que os usuários visualizem a localização dos veículos de transporte público em tempo real. |
+| RF05|Deve fornecer informações sobre as linhas de transporte público e suas paradas. |
+| RF06|Deve permitir a navegação passo a passo para os usuários chegarem ao seu destino. |
+| RF07|Deve permitir que os usuários salvem suas linhas favoritas. |
+| RF08|Deve permitir que os usuários filtrem suas preferências de rotas e modos de transporte. |
+| RF09|Deve permitir que os usuários relatem problemas ou atualizações sobre rotas e horários. |
+| RF10|Deve fornecer dados de tráfego e condições das vias para melhor planejamento de rotas. |
+| RF11|Deve ter um sistema de geolocalização para rastreamento preciso dos usuários e veículos. |
+| RF12|Deve permitir a personalização de notificações de horários e alertas de transporte. |
+| RF13|Deve integrar soluções de IA para otimizar o planejamento e a operação dos transportes. |
+| RF14|Deve suportar um modo offline para acessar informações básicas de rotas e paradas. |
+|RF15|Deve fornecer suporte multilíngue para usuários de diferentes regiões.|
+|RNF01|O sistema deve ser responsivo, adaptando-se a diferentes tamanhos de tela (dispositivos móveis e tablets).|
+|RNF02|O sistema deve ser compatível com as principais versões dos sistemas operacionais Android e iOS.|
+| RNF03|  A interface do usuário deve ser intuitiva e fácil de usar, seguindo as diretrizes de design de UX/UI.|
+
+| Autor | Versão | Data|
+|--|---|---|
+|Diego Carlito| 1ª| 31/07/2024|
