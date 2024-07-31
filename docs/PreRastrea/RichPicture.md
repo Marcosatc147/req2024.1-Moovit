@@ -11,17 +11,17 @@ Abaixo serão listadas os Rich Pictures para cada escopo do sistema Moovit.
 ## Sistema Moovit
 
 | Versão          | Descrição |
-|-----------------|---------- |
-| 1ª Versão       | Descrição |
+|----|---------- |
+| 1ª | Descrição |
 
 ![Primeira Versão](../assets/Rich-picture/RichPicture%20MoovitV1.png)
 
 ### Sistema de Rastreamento
 ---
 
-| Versão          | Descrição |
-|-----------------|---------- |
-| 1ª Versão       | É extraido do site oficial que o sistema contém uma aplicação de rastreamento, o mesmo é agredado com as informações obtidas pela empresa de transporte público responsável, ou os próprios mooviters que ajudam a sempre estarem atualizando sobre as linhas.|
+|Autor  | Versão          |Data| Descrição |
+|-------|-----------------|----|---------- |
+|Márcio Henrique| 1ª   |27/07/2024| É extraido do site oficial que o sistema contém uma aplicação de rastreamento, o mesmo é agredado com as informações obtidas pela empresa de transporte público responsável, ou os próprios mooviters que ajudam a sempre estarem atualizando sobre as linhas.|
 
 
 
@@ -31,9 +31,9 @@ Abaixo serão listadas os Rich Pictures para cada escopo do sistema Moovit.
 
 ---
 
-| Versão          | Descrição |
-|-----------------|---------- |
-| 2ª Versão       | Após debates com a equipe e o enquadramento do mapa mental, foi revelado algumas inconsistências nos fluxos   entre os componentes ( além do novo componente "mooviters" ), então obtivemos esse resultado.|
+| Autor| Versão          |Data| Descrição |
+|------|-----------------|-----|---------- |
+|Márcio Henrique| 2ª        |29/07/2024 | Após debates com a equipe e o enquadramento do mapa mental, foi revelado algumas inconsistências nos fluxos   entre os componentes ( além do novo componente "mooviters" ), então obtivemos esse resultado.|
 
 ---
 
