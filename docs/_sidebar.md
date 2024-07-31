@@ -7,6 +7,7 @@
 * [Visão do Produto](./VisaoProduto/visaoProduto.md)
 
 * [Pré-Rastreabilidade](./PreRastrea/Pre-rastreabilidade.md) 
+    * [- Brainstorm](./PreRastrea/Brainstorm.md)
     * [- Rich-Picture](./PreRastrea/RichPicture.md)
     * [- Mapa Mental](./PreRastrea/Mapa-Mental.md)
     * [- Baseline](./PreRastrea/Baseline.md)
