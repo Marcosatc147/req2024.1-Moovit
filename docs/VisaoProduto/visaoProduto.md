@@ -18,7 +18,10 @@ O Moovit posiciona-se como o líder global em Mobilidade como Serviço (MaaS), o
 
 ### Bibliografia 
 
-1- https://moovit.com/pt/about-us-pt/ acesso em julho de 2024
+<<https://moovit.com/pt/about-us-pt/>> Acesso em julho de 2024
+
+
+### Histórico de Versões
 
 | Autor| Versão          |Data| Descrição |
 |------|-----------------|-----|---------- |
