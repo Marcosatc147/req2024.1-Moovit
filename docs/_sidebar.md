@@ -13,5 +13,6 @@
     * [- Argumentação](./PreRastrea/Argumetacao.md)
 
 * [Elicitação](./Elicitacao/Elicitacao.md)
+    * [- Personas](./Elicitacao/Personas.md)
     * [- Cenário e Léxico](./Elicitacao/CenarioLex.md)
     * [- MoSCoW](./Elicitacao/MoSCow.md)
