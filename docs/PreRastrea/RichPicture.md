@@ -63,7 +63,7 @@ empresa, suas funcionalidades e demais aspectos relevantes.
 
 ---
 
-![Sistema-de-Rastreamento](../assets/Rich-picture/Sistema-Rastreamento2.png)
+![Sistema-de-Rastreamento](../assets/Rich-picture/SistemaRastreamentoV2.png)
 
 
 
