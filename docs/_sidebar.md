@@ -7,11 +7,11 @@
 * [Visão do Produto](./VisaoProduto/visaoProduto.md)
 
 * [Pré-Rastreabilidade](./PreRastrea/Pre-rastreabilidade.md) 
-    * [- Brainstorm](./PreRastrea/Brainstorm.md)
     * [- Rich-Picture](./PreRastrea/RichPicture.md)
-    * [- Mapa Mental](./PreRastrea/Mapa-Mental.md)
+    * [- Mapa Mental e Brainstorm](./PreRastrea/Mapa-Mental.md)
     * [- Baseline](./PreRastrea/Baseline.md)
     * [- Argumentação](./PreRastrea/Argumetacao.md)
 
 * [Elicitação](./Elicitacao/Elicitacao.md)
     * [- Cenário e Léxico](./Elicitacao/CenarioLex.md)
+    * [- MoSCoW](./Elicitacao/MoSCow.md)
