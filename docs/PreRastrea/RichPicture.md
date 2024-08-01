@@ -35,13 +35,13 @@ empresa, suas funcionalidades e demais aspectos relevantes.
 |----|----|---------- |-----|
 |Diego Carlito| 2ª | 29/07/2024 ||
 
-![Primeira Versão](../assets/Rich-picture/RichPicture%20MoovitV2.png)
+![Primeira Versão](../assets/Rich-picture/RichPicture%20MoovitV3.png)
 
 |Autor| Versão          |Data| Descrição |
 |----|----|---------- |-----|
 |Pedro Paulo| 3ª | 29/07/2024 |Após alguns dias de análise e pesquisa no próprio aplicativo e no cenáriocriado pelo grupo, surgiu um novo esquema de como poderia ser o Rich Picture geral do app. Para alcançar esse artefato, foram realizadas pesquisas na seção "Sobre nós", presente no próprio aplicativo, em uma de suas áreas de informação. Essa seção continha informações sobre como os usuários poderiam utilizar o aplicativo e quem são os "Mooviters" — pessoas que informam ao aplicativo os horários em que determinados ônibus costumam passar em uma parada específica, quando a localização no veículo não está ativa. Além disso, foi possível identificar qual sistema de geolocalização é utilizado para obter a API, entre outras informações relevantes.Para a criação do segundo Rich Picture, foram utilizados os seguintes arquivos:|
 
-![Primeira Versão](../assets/Rich-picture/RichPicture%20MoovitV3.png)
+![Primeira Versão](../assets/Rich-picture/RichPicture%20MoovitV2.png)
 ### Sistema de Rastreamento
 ---
 
