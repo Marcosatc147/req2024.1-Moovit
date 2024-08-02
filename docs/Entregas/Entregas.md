@@ -4,7 +4,7 @@ Devido a incompatibilidade de horários da equipe o integrante Vitor Hugo aprese
 
 **Itrace**
 
-![itrace1](../assets/Itrace/1.png)
+
 
 ---
 ![itrace2](../assets/Itrace/2.png)
