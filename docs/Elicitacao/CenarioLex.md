@@ -5,11 +5,11 @@
 
 
 
-| |  |  |  
-|:-----|:----|:-----|
-|**Contexto**|Tela inicial do moovit. Usuário deseja procurar uma rota para a faculdade UnB FGA|![imagem1]()|
-|**Ações**|1. Aba [Direções](#/Elicitacao/CenarioLex.md?id=tabela-de-termos) <br> 2. Adiciona local de partida<br> 3. Adiciona destino|![imagem1]()| 
-|**Resultados**|1. Diversas formas de chegar ao destino <br> 2. Visualização da [rota](#/Elicitacao/CenarioLex.md?id=tabela-de-termos) a se percorrer|![imagem1]()| 
+| |  |  
+|:-----|:----|
+|**Contexto**|Tela inicial do moovit. Usuário deseja procurar uma rota para a faculdade UnB FGA|
+|**Ações**|1. Aba [Direções](#/Elicitacao/CenarioLex.md?id=tabela-de-termos) <br> 2. Adiciona local de partida<br> 3. Adiciona destino|
+|**Resultados**|1. Diversas formas de chegar ao destino <br> 2. Visualização da [rota](#/Elicitacao/CenarioLex.md?id=tabela-de-termos) a se percorrer|
 
 |Autor  | Versão          |Data| Descrição |
 |-------|-----------------|----|---------- |
@@ -21,11 +21,11 @@
 
 
 
-| |  |  |  
-|:-----|:----|:-----|
-|**Contexto**|Tela inicial do moovit. Usuário deseja procurar mais informações sobre uma [linha](#/Elicitacao/CenarioLex.md?id=tabela-de-termos) específica|![imagem1]()|
-|**Ações**|1. Aba [Linhas](#/Elicitacao/CenarioLex.md?id=tabela-de-termos) <br> 2. Digitar a [linha](#/Elicitacao/CenarioLex.md?id=tabela-de-termos) que procura na barra de pesquisa<br> 3. Clica na linha desejada|![imagem1]()| 
-|**Resultados**|1. [Rota](#/Elicitacao/CenarioLex.md?id=tabela-de-termos) completa da linha Visulizando todas as [paradas](#/Elicitacao/CenarioLex.md?id=tabela-de-termos)  <br> 2. Caso esteja próximo a uma parada em que o ônibus passa ele falará em qual horário |![imagem1]()| 
+| |  |   
+|:-----|:----|
+|**Contexto**|Tela inicial do moovit. Usuário deseja procurar mais informações sobre uma [linha](#/Elicitacao/CenarioLex.md?id=tabela-de-termos) específica|
+|**Ações**|1. Aba [Linhas](#/Elicitacao/CenarioLex.md?id=tabela-de-termos) <br> 2. Digitar a [linha](#/Elicitacao/CenarioLex.md?id=tabela-de-termos) que procura na barra de pesquisa<br> 3. Clica na linha desejada|
+|**Resultados**|1. [Rota](#/Elicitacao/CenarioLex.md?id=tabela-de-termos) completa da linha Visulizando todas as [paradas](#/Elicitacao/CenarioLex.md?id=tabela-de-termos)  <br> 2. Caso esteja próximo a uma parada em que o ônibus passa ele falará em qual horário |
 
 |Autor  | Versão          |Data| Descrição |
 |-------|-----------------|----|---------- |

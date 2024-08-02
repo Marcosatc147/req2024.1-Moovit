@@ -121,7 +121,9 @@ Ao decorrer da maturidade do projeto iremos utilizar as tecnologias e ferramenta
         <!-- Adicione mais membros da equipe se necessário -->
     </div>
 </div>
+
 ---
+
 |Autor  | Versão          |Data| Descrição |
 |-------|-----------------|----|---------- |
 |Márcio Henrique| 1ª   |29/07/2024|Estruturação da documetação|
