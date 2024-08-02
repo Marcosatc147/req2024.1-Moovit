@@ -33,7 +33,7 @@ empresa, suas funcionalidades e demais aspectos relevantes.
 
 |Autor| Versão          |Data| Descrição |
 |----|----|---------- |-----|
-|Diego Carlito| 2ª | 29/07/2024 ||
+|Diego Carlito| 2ª | 29/07/2024 |Utilizando o primeiro Rich Picture como referência, foram adicionados mais detalhes sobre a obtenção de informações de geolocalização pelo Moovit, bem como a especificação de como os dados sobre transportes públicos seriam coletados.|
 
 ![Primeira Versão](../assets/Rich-picture/RichPicture%20MoovitV3.png)
 
