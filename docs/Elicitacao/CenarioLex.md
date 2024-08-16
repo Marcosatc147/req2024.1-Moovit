@@ -31,6 +31,12 @@
 |-------|-----------------|----|---------- |
 |Márcio Henrique| 1ª   |31/07/2024|O artefato foi extraído pela introspecção dos próprios alunos que ativamente utilizam o sistema|
 
+
+| |  |   
+|:-----|:----|
+|**Contexto**|Tela inicial do moovit. Usuário deseja uma assinatura o moovit|
+|**Ações**|1. Toque no ícone do menu (3 linhas no topo da tela)  <br> 2. Toque em Moovit+ 3. Escolha o plano que deseja assinar (1 mês, 3 meses ou 12 meses) <br> 4. Confirme a compra e finalize.|
+|**Resultados**|1. O usuário terá alguns benefícios em comparação ao uso free do app como: AD free, visualização do trânsito em tempo real da [rota](#/Elicitacao/CenarioLex.md?id=tabela-de-termos) completa da linha Visulizando todas as [paradas](#/Elicitacao/CenarioLex.md?id=tabela-de-termos) desejada e comparação de rotas.  |
 ----
 
 # Tabela de Termos

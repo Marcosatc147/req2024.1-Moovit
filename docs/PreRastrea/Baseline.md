@@ -33,7 +33,7 @@ Durante a reunião, com os integrantes e compartilharem em suas perspectivas e c
 |RNF01|O sistema deve ser responsivo, adaptando-se a diferentes tamanhos de tela (dispositivos móveis e tablets).|
 |RNF02|O sistema deve ser compatível com as principais versões dos sistemas operacionais Android e iOS.|
 | RNF03|  A interface do usuário deve ser intuitiva e fácil de usar, seguindo as diretrizes de design de UX/UI.|
-
+| RNF04|  LGPD.|
 ### Bibliografia
 
 <<https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-analise-de-protocolo>> Acesso em julho de 2024.
