@@ -1,6 +1,8 @@
 # Ágil
+A metodologia ágil é um conjunto de práticas e princípios de gerenciamento de projetos que enfatiza a flexibilidade, colaboração e entrega contínua.
 
 ## Backlog
+Lista contendo todos as funcionalidades desejadas no produto.
 
 ### Epics
 
