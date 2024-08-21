@@ -37,6 +37,19 @@ Descrição: A interface do usuário deve ser intuitiva e fácil de usar, seguin
 Justificativa: Melhorar a experiência do usuário, reduzindo a curva de aprendizado e facilitando a navegação no aplicativo.
 Critério de Aceitação: O design da interface deve seguir as práticas recomendadas de UX/UI e deve ser validado por meio de testes de usabilidade com usuários representativos.
 
+#### RNF03: Design de UX/UI Intuitivo
+Descrição: A interface do usuário deve ser intuitiva e fácil de usar, seguindo as diretrizes de design de UX/UI.
+Justificativa: Melhorar a experiência do usuário, reduzindo a curva de aprendizado e facilitando a navegação no aplicativo.
+Critério de Aceitação: O design da interface deve seguir as práticas recomendadas de UX/UI e deve ser validado por meio de testes de usabilidade com usuários representativos.
+
+#### RNF04: Escalabilidade
+Descrição: O sistema deve ser escaláavel sendo possível utlizar em qualquer região.
+Justificativa: O sistema deve ser escalável aumentar sua capacidade de atender a um maior número de usuários, processos ou transações, sem comprometer o desempenho ou a eficiência. Podendo atender em qualquer região.
+
+#### RNF05: LGPD
+Descrição: O sistema deve seguir as condição de LGPD para a compra de assinaturas.
+Justificativa: É crucial que regula a coleta, uso, armazenamento e compartilhamento de dados pessoais no país. Inspirada no Regulamento Geral sobre a Proteção de Dados (GDPR) da União Europeia, a LGPD estabelece diretrizes claras para empresas e organizações sobre como devem tratar os dados pessoais dos cidadãos brasileiros.
+
 |Autor  | Versão          |Data|
 |-------|-----------------|----|
 |[Marcos Castilhos](https://github.com/Marcosatc147)|1ª   |21/08/2024|

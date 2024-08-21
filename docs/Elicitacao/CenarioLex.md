@@ -30,6 +30,7 @@ Cenários são descrições detalhadas de situações específicas que ocorrem d
 | CN9  | Usuário Reporta um Problema no Transporte Público |
 | CN10  | Acesso a Notícias Relacionadas ao Transporte Público |
 | CN11  | Atualização de Informações de Transporte Público por um Mooviter |
+| CN12  | Assinatura do moovit para ad-free |
 
 |Autor  | Versão          |Data|
 |-------|-----------------|----|
