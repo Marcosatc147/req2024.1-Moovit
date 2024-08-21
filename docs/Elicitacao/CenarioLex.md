@@ -97,6 +97,9 @@ Cenários são descrições detalhadas de situações específicas que ocorrem d
 
 ## CN4
 
+
+
+=======
 | Elemento | Descrição     |
 |----------|---------------------|
 | Titulo  | Integração com Serviços de **Carona Paga** |
@@ -107,6 +110,7 @@ Cenários são descrições detalhadas de situações específicas que ocorrem d
 | Episódios | O **usuário** insere seu destino no **aplicativo Moovit**. <br> O **sistema** apresenta **rotas** que combinam **transporte** público e **caronas pagas**. <br> O **usuário** seleciona a **rota** que inclui o uso de um serviço de **carona paga**. <br> O **sistema** redireciona o **usuário** para o aplicativo de **carona paga** para agendar o carro. <br> O **usuário** conclui a viagem utilizando ambos os meios de transporte. |
 | Restrição  | A integração deve ser fluida e as **rotas** combinadas devem considerar o tempo estimado de chegada dos carros de carona |
 | Exceção  | Se não houver carros disponíveis, o **sistema** deve recalcular a **rota** usando apenas **transporte público** |
+
 
 |Autor  | Versão          |Data|
 |-------|-----------------|----|
@@ -243,6 +247,14 @@ Cenários são descrições detalhadas de situações específicas que ocorrem d
 | Exceção  | Se o **Mooviter** não conseguir verificar as informações, ele deve deixar um aviso para que outro **Mooviter** ou administrador possa revisar a situação. |
 
 ---
+## CN12
+
+|Elemento | Descrição |   
+|:-----|:----|
+|**Contexto**|Tela inicial do moovit. Usuário deseja uma assinatura o moovit|
+|**Ações**|1. Toque no ícone do menu (3 linhas no topo da tela)  <br> 2. Toque em Moovit+ 3. Escolha o plano que deseja assinar (1 mês, 3 meses ou 12 meses) <br> 4. Confirme a compra e finalize.|
+|**Resultados**|1. O usuário terá alguns benefícios em comparação ao uso free do app como: AD free, visualização do trânsito em tempo real da [rota](#/Elicitacao/CenarioLex.md?id=tabela-de-termos) completa da linha Visulizando todas as [paradas](#/Elicitacao/CenarioLex.md?id=tabela-de-termos) desejada e comparação de rotas.  |
+----
 
 # Léxico
 Léxico é um artefato utilizado na engenharia de requisitos para definir e padronizar os termos e expressões usados dentro do contexto de um sistema de software. Ele consiste em uma lista estruturada de palavras, frases ou conceitos relevantes, cada um acompanhado de uma descrição clara e concisa, explicando seu significado no contexto do projeto.
