@@ -2,9 +2,12 @@
     <img alt="Logo-moovit" src="assets/logo.png" style="border-radius: 30%; padding: 40px">
 </a>
 
-* [Entregas](./Entregas/Entregas.md)
-
 * [Home]()
+
+* Entregas
+    * [Entrega 1](./Entregas/Entrega1.md)
+
+    * [Entrega 2](./Entregas/Entrega2.md)
 
 * [Visão do Produto](./VisaoProduto/visaoProduto.md)
 

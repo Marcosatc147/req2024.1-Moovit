@@ -69,7 +69,7 @@ Ao decorrer da maturidade do projeto iremos utilizar as tecnologias e ferramenta
     </div>
 
 <div class="col-sm team-member">
-        <img src="http://github.com/Marcosatc147.png" alt="Marco Antonio" class="img-thumbnail image">
+        <img src="http://github.com/Marcosatc147.png" alt="Marcos Antonio" class="img-thumbnail image">
         <div class="middle">
             <a href="http://github.com/Marcosatc147" style="text-decoration:none">
                 <div class="text">Marco Antonio</div>
