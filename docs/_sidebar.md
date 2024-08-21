@@ -21,3 +21,6 @@
     * [- Personas](./Elicitacao/Personas.md)
     * [- Cenário e Léxico](./Elicitacao/CenarioLex.md)
     * [- MoSCoW](./Elicitacao/MoSCow.md)
+
+* [Modelagem](./Modelagem/modelagem.md)
+    * [- Diagrama Caso de Uso](./Modelagem/diagrcasouso.md)
