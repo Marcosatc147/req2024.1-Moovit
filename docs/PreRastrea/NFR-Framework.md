@@ -26,6 +26,14 @@ Abaixo estão o desenvolvimento dos NFR-Framework desenvolvidos de acordo com o 
 
 |Autor| Versão          |Data| Descrição |
 |----|----|---------- |-----|
-|Márcio e Pedro| 3ª | 17/08/2024 |Após uma análise minuciosa das duas primeiras versões do NFR, optamos por integrar as melhores partes de ambos, levando em consideração a aderência à visão do produto e a clareza na descrição dos requisitos.|
+|Márcio e Pedro| 3ª | 18/08/2024 |Após uma análise minuciosa das duas primeiras versões do NFR, optamos por integrar as melhores partes de ambos, levando em consideração a aderência à visão do produto e a clareza na descrição dos requisitos.|
 
 ![Terceira Versão](<../assets/NFR/NFR MoovitV2.jpg>)
+
+|Autor| Versão          |Data| Descrição |
+|----|----|---------- |-----|
+|Márcio e Pedro| 4ª | 21/08/2024 |AApós estudos detalhados do aplicativo, considerando a visão de produto e todos os Rich Pictures, buscamos tornar o framework do NFR mais completo, integrando todos os requisitos não funcionais de maneira mais explícita. Analisamos a seção "Sobre nós" do aplicativo para decompor os softgoals de forma estruturada. Além disso, adicionamos as contribuições necessárias, como os "Some +", o "help", entre outros.|
+
+
+
+![Quarta Versão](<../assets/NFR/NFR MoovitV3.jpg>)
