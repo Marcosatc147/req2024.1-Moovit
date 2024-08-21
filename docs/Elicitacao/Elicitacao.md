@@ -7,4 +7,5 @@ Esse processo é fundamental para garantir que o produto final atenda às necess
 Dessa forma seguiremos com alguns metodos para desenvolver essa atividade como:
 
 [<p style="font-size:20px;">Cenário e Léxico.</p>](../Elicitacao/CenarioLex.md)
-[<p style="font-size:20px;">Argumentação.</p>]()
+[<p style="font-size:20px;">MoSCow.</p>](../Elicitacao/MoSCow.md)
+[<p style="font-size:20px;">Personas.</p>](../Elicitacao/Personas.md)
