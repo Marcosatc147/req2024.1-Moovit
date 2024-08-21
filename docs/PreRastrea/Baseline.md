@@ -30,6 +30,8 @@ Durante a reunião, com os integrantes e compartilharem em suas perspectivas e c
 | RF13|Deve integrar soluções de IA para otimizar o planejamento e a operação dos transportes. |
 | RF14|Deve suportar um modo offline para acessar informações básicas de rotas e paradas. |
 |RF15|Deve fornecer suporte multilíngue para usuários de diferentes regiões.|
+|RF16|Deve suportar integração com serviços de carona paga para fornecer opções de transporte.|
+|RF17|Deve integrar com serviços de bicicletas e patinetes compartilhados para exibir locais disponíveis.|
 |RNF01|O sistema deve ser responsivo, adaptando-se a diferentes tamanhos de tela (dispositivos móveis e tablets).|
 |RNF02|O sistema deve ser compatível com as principais versões dos sistemas operacionais Android e iOS.|
 | RNF03|  A interface do usuário deve ser intuitiva e fácil de usar, seguindo as diretrizes de design de UX/UI.|
@@ -44,3 +46,4 @@ Durante a reunião, com os integrantes e compartilharem em suas perspectivas e c
 |--|---|---|-----------------|
 |Diego Carlito| 1.0| 31/07/2024| Adição do baseline|
 |Márcio Henrique e Victor Hugo| 1.1| 31/07/2024| Adição do video e introdução sobre análise de protocolo|
+|Diego Carlito e Marcos Castilhos| 1.2| 21/08/2024| Atualização do baseline|
