@@ -84,7 +84,11 @@ Lista contendo todos as funcionalidades desejadas no produto.
 | 7.3.1 | RF   | Como usuário, quero receber sugestões de rotas alternativas rapidamente em caso de interrupções no serviço, podendo aconselhar ao usuário descer do ônibus em que está para esperar por outro que melhore sua rota e conforto. | Média      |
 | 7.4.1 | RF   | Como usuário, quero orientações detalhadas para encontrar pontos turísticos e restaurantes sem me perder.                                                                                                                      | Média      |
 | 7.5.1 | RF   | Como usuário, quero ferramentas mais eficientes para mapear e atualizar informações de transporte público na minha cidade e maiores benefícios por assinaturas.                                                                | Alta       |
-
+| RNF01 | RNF  | Cono sistema, devo ser responsivo, adaptando-se a diferentes tamanhos de tela (dispositivos móveis e tablets).                                                                                                                 | Alta       |
+| RNF02 | RNF  | Cono sistema, devo ser compatível com as principais versões dos sistemas operacionais Android e iOS.                                                                                                                           | Alta       |
+| RNF03 | RNF  | Cono sistema, minha interface deve ser intuitiva e fácil de usar, seguindo as diretrizes de design de UX/UI.                                                                                                                   | Alta       |
+| RNF04 | RNF  | Cono sistema, devo seguir as condição de LGPD para a compra de assinaturas.                                                                                                                                                    | Alta       |
+| RNF05 | RNF  | Cono sistema, devo ser escalável, sendo possível utlizar em qualquer região.                                                                                                                                                   | Alta       |
 
 ## Sprint Planning
 
