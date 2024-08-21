@@ -14,7 +14,7 @@
 * [Pré-Rastreabilidade](./PreRastrea/Pre-rastreabilidade.md) 
     * [- Rich-Picture](./PreRastrea/RichPicture.md)
     * [- Mapa Mental e Brainstorm](./PreRastrea/Mapa-Mental.md)
-    * [- Análise de Protocolo](./PreRastrea/Baseline.md)
+    * [- Análise de Protocolo e Baseline](./PreRastrea/Baseline.md)
     * [- Argumentação](./PreRastrea/Argumetacao.md)
 
 * [Elicitação](./Elicitacao/Elicitacao.md)
@@ -22,5 +22,10 @@
     * [- Cenário e Léxico](./Elicitacao/CenarioLex.md)
     * [- MoSCoW](./Elicitacao/MoSCow.md)
 
+
 * [Modelagem](./Modelagem/modelagem.md)
     * [- Diagrama Caso de Uso](./Modelagem/diagrcasouso.md)
+    * [- Especificação de Caso de Uso](./Modelagem/especificacaocasouso.md)
+    * [- Especificação Suplementar](./Modelagem/especificacaosup.md)
+    * [- NFR](./Modelagem/NFR-Framework.md)
+
