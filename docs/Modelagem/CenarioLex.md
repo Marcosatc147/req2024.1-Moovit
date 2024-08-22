@@ -19,18 +19,18 @@ Cenários são descrições detalhadas de situações específicas que ocorrem d
 
 | ID | Título |
 |----------|---------------------|
-| CN1  | Consulta de Rotas de Transporte Público |
-| CN2  | Utilização de Serviço de Bicicletas Compartilhadas |
-| CN3  | Uso de Benefícios Premium no Moovit |
-| CN4  | Integração com Serviços de Carona Paga |
-| CN5  | Procura por uma Linha de Ônibus Específica |
-| CN6  | Usuário Favorita Linhas de Transporte para Acesso Rápido |
-| CN7  | Verificação da Proximidade de um Ônibus |
-| CN8  | Planejamento de Viagem com Múltiplos Modos de Transporte |
-| CN9  | Usuário Reporta um Problema no Transporte Público |
-| CN10  | Acesso a Notícias Relacionadas ao Transporte Público |
-| CN11  | Atualização de Informações de Transporte Público por um Mooviter |
-| CN12  | Assinatura do moovit para ad-free |
+| [CN1](#cn1)  | Consulta de Rotas de Transporte Público |
+| [CN2](#cn2)  | Utilização de Serviço de Bicicletas Compartilhadas |
+| [CN3](#cn3)  | Uso de Benefícios Premium no Moovit |
+| [CN4](#cn4)  | Integração com Serviços de Carona Paga |
+| [CN5](#cn5)  | Procura por uma Linha de Ônibus Específica |
+| [CN6](#cn6)  | Usuário Favorita Linhas de Transporte para Acesso Rápido |
+| [CN7](#cn7)  | Verificação da Proximidade de um Ônibus |
+| [CN8](#cn8)  | Planejamento de Viagem com Múltiplos Modos de Transporte |
+| [CN9](#cn9)  | Usuário Reporta um Problema no Transporte Público |
+| [CN10](#cn10)  | Acesso a Notícias Relacionadas ao Transporte Público |
+| [CN11](#cn11)  | Atualização de Informações de Transporte Público por um Mooviter |
+| [CN12](#cn12)  | Assinatura do moovit para ad-free |
 
 |Autor  | Versão          |Data|
 |-------|-----------------|----|
@@ -83,7 +83,7 @@ Cenários são descrições detalhadas de situações específicas que ocorrem d
 |----------|---------------------|
 | Titulo  | Uso de **Benefícios Premium** no **Moovit** |
 | Objetivo  | Oferecer ao **usuário** uma experiência premium com funcionalidades adicionais no **Moovit** |
-| Contexto  | O **usuário** deseja saber se vale a pena assinar o pacote de **benefícios premium **|
+| Contexto  | O **usuário** deseja saber se vale a pena assinar o pacote de **benefícios premium** |
 | Recursos  | Conexão à internet, **aplicativo Moovit** instalado |
 | Atores  | **Usuário** |
 | Episódios | O **usuário** acessa a área de benefícios no **aplicativo Moovit**. <br> O **sistema** apresenta as opções de pacotes de benefícios disponíveis. <br> O **usuário** visualiza os detalhes de cada pacote, incluindo as funcionalidades adicionais. <br> O **usuário** decide **assinar o pacote premium**. <br> O **sistema** processa o pagamento e habilita o **Moovit+** no **aplicativo**. <br> O **usuário** começa a utilizar os novos benefícios, como **alertas** personalizados e **rotas** otimizadas. |
@@ -98,9 +98,6 @@ Cenários são descrições detalhadas de situações específicas que ocorrem d
 
 ## CN4
 
-
-
-=======
 | Elemento | Descrição     |
 |----------|---------------------|
 | Titulo  | Integração com Serviços de **Carona Paga** |
@@ -245,16 +242,32 @@ Cenários são descrições detalhadas de situações específicas que ocorrem d
 | Atores  | **Mooviter** |
 | Episódios | O **Mooviter** entra no **aplicativo Moovit** e acessa a seção de edição de dados. <br> Ele identifica uma **linha de ônibus** cujas informações estão desatualizadas. <br> O **Mooviter** verifica as informações atualizadas junto às fontes disponíveis, como sites oficiais de **transporte público**. <br> Ele atualiza os dados no **Moovit**, incluindo novos horários e possíveis mudanças nas **rotas**. <br> O **sistema** salva as alterações e sincroniza as novas informações com a base de dados global do **Moovit**. <br> As informações atualizadas tornam-se visíveis para todos os **usuários** do **Moovit**. |
 | Restrição  | As atualizações só podem ser feitas por **Mooviters** autorizados; as informações devem ser verificadas antes de serem publicadas |
-| Exceção  | Se o **Mooviter** não conseguir verificar as informações, ele deve deixar um aviso para que outro **Mooviter** ou administrador possa revisar a situação. |
+| Exceção  | Se o **Mooviter** não conseguir verificar as informações, ele deve deixar um aviso para que outro **Mooviter** ou administrador possa revisar a situação |
+
+|Autor  | Versão          |Data|
+|-------|-----------------|----|
+|[Diego Carlito](https://github.com/DiegoCarlito)|1ª   |19/08/2024|
 
 ---
 ## CN12
 
 |Elemento | Descrição |   
 |:-----|:----|
-|**Contexto**|Tela inicial do moovit. Usuário deseja uma assinatura o moovit|
-|**Ações**|1. Toque no ícone do menu (3 linhas no topo da tela)  <br> 2. Toque em Moovit+ 3. Escolha o plano que deseja assinar (1 mês, 3 meses ou 12 meses) <br> 4. Confirme a compra e finalize.|
-|**Resultados**|1. O usuário terá alguns benefícios em comparação ao uso free do app como: AD free, visualização do trânsito em tempo real da [rota](#/Elicitacao/CenarioLex.md?id=tabela-de-termos) completa da linha Visulizando todas as [paradas](#/Elicitacao/CenarioLex.md?id=tabela-de-termos) desejada e comparação de rotas.  |
+| Título | Assinatura do **Moovit** para ad-free |
+| Objetivo | Permitir que o **usuário** assine o **Moovit+** para remover anúncios e obter benefícios adicionais |
+| Contexto | Tela inicial do **Moovit**. O **usuário** deseja assinar o **Moovit+** |
+| Recursos | Conexão à internet, cartão de crédito ou outra forma de pagamento válida |
+| Atores | **Usuário** |
+| Ações | Toque no ícone do menu (3 linhas no topo da tela). <br> Toque em **Moovit+**. <br> Escolha o plano que deseja assinar (1 mês, 3 meses ou 12 meses). <br> Confirme a compra e finalize.|
+| Resultados | O **usuário** terá benefícios em comparação ao uso gratuito do **aplicativo**, como: remoção de anúncios, visualização do trânsito em tempo real na **rota** completa, visualização de todas as **paradas** desejadas, e comparação de **rotas** |
+| Restrições | O **usuário** deve ter uma forma de pagamento válida e suficiente saldo disponível |
+| Exceção | Erro de pagamento ou conexão durante a assinatura pode impedir a conclusão do processo |
+
+
+|Autor  | Versão          |Data|
+|-------|-----------------|----|
+|Márcio Henrique|1ª   |20/08/2024|
+
 ----
 
 # Léxico
@@ -271,26 +284,26 @@ Léxico é um artefato utilizado na engenharia de requisitos para definir e padr
 
 | Símbolo | Classificação | Sinônimo | Noção | Impacto |
 |----|-----|----|-----|-----|
-| Moovit | Objeto | Aplicativo, Sistema | Software móvel instalado em dispositivos dos usuários para acessar serviços de transporte urbano | O aplicativo Moovit é a plataforma principal de interação, onde o usuário acessa todas as funcionalidades e informações do sistema |
-| Linha de Transporte | Objeto | Itinerário, Linha de Ônibus | Representa uma rota específica de um transporte público  | Permite ao usuário encontrar as rotas disponíveis para planejar suas viagens e acessar horários em tempo real |
-| Parada | Objeto | Ponto de Ônibus, Estação | Local designado onde os veículos de transporte público param para embarque e desembarque de passageiros | As paradas são essenciais para fornecer informações sobre onde o usuário pode pegar o transporte |
-| Usuário | Objeto | Passageiro | Pessoa que utiliza o sistema Moovit para planejar suas viagens e acessar informações sobre o transporte público | O usuário interage com todas as funcionalidades do sistema, desde a busca por rotas até o pagamento de tarifas |
-| Favoritar | Verbo | Salvar, Adicionar | Ação de marcar uma linha de transporte ou parada como favorita para acesso rápido | Facilita o acesso do usuário às suas linhas de transporte preferidas, melhorando a experiência de uso do sistema |
-| Transporte Público | Objeto | Transporte Coletivo | Sistema de transporte disponível para o público em geral, incluindo ônibus e metrô | Principal foco do Moovit, é base sobre o qual o aplicativo opera para fornecer informações e serviços aos usuários |
-| Localizar | Verbo | Encontrar, Identificar | Ação de determinar a posição de um transporte público, estações de ônibus, a localização atual do usuário e estações de bicicletas compartilhadas | Essencial para a experiência do usuário no Moovit, permitindo que ele saiba onde está e onde precisa ir para acessar o transporte público |
-| Definir Destino | Verbo | Inserir Destino | Ação de o usuário informar o local de destino desejado no Moovit para obter rotas, horários, e opções de transporte | Inserir Destino é um passo crucial para que o sistema possa calcular as melhores rotas e opções de transporte disponíveis. Afeta diretamente a experiência do usuário ao proporcionar informações personalizadas e precisas para o trajeto |
-| Alertas | Objeto | Notícias | Atualizações sobre o funcionamento do transporte público | Ajuda o usuário a estar informado sobre mudanças, interrupções e eventos que afetam o transporte público |
-| Reportar |  Verbo | Informar, Notificar | Ação de comunicar as condições de uma linha de transporte ou de uma estação, como atrasos, superlotação, ou problemas estruturais, diretamente através do Moovit | A função de Reportar permite que os usuários contribuam com a atualização em tempo real das condições do transporte público, melhorando a experiência de todos os usuários. Também ajuda a manter as informações do sistema precisas e a fornecer dados úteis para gestores de transporte e para outros usuários |
-| Assinar Pacote Premium | Verbo | Efetuar Pagamento | Ação de pagar por benefícios extras dentro do Moovit | O usuário pode usar o sistema para efetuar pagamento de assinatura, recebendo benefícios |
-| Moovit+ | Objeto | Benefícios Premium | Serviço de assinatura premium do Moovit que oferece funcionalidades adicionais e exclusivas aos usuários, como informações em tempo real mais detalhadas, alertas personalizados, e ausência de anúncios | O Moovit+ melhora a experiência de uso ao proporcionar recursos avançados, incentivando a adesão a serviços pagos e gerando receita para a plataforma. Ele também aumenta a fidelidade dos usuários ao oferecer vantagens exclusivas e personalizadas |
-| Mooviter | Objeto | Editor | Usuário dedicado que ajuda a manter o mapa e as informações do Moovit atualizadas em diversas cidades | Garante que dados sobre rotas, paradas e horários estejam sempre atualizados e precisos para todos os usuários |
-| Rota | Objeto | Trajeto, Caminho | Caminho a partir da posição atual até o ponto de destino | Fundamental para o planejamento de viagens dos usuários, as rotas determinam quais trajetos estão disponíveis e como os passageiros podem chegar ao seu destino. O Moovit usa essa informação para fornecer recomendações de viagem e otimizar o tempo de deslocamento |
-| Filtrar Rotas | Verbo | Selecionar Rotas | Ação de aplicar critérios específicos para reduzir ou ajustar a lista de rotas disponíveis, mostrando apenas as que melhor atendem às necessidades do usuário | Crucial para melhorar a eficiência e experiência do usuário no Moovit, permitindo que ele encontre rapidamente a rota mais conveniente com base em preferências, como menor tempo de viagem, menos conexões, caminhar menos e preferência de modos de transporte |
-| Mapa | Objeto | Plano | Representação gráfica que exibe rotas, paradas, locais de transporte público e privado dentro de uma área geográfica, utilizada para orientar o usuário em suas jornadas | Essencial para a navegação e planejamento de viagens, o Mapa oferece uma visão geral e detalhada das opções de transporte, permitindo ao usuário visualizar e escolher a melhor rota ou serviço disponível. Ele é central na interface do Moovit, facilitando a interação com o sistema |
-| Pesquisar por Linha | Verbo | Buscar Linha | Ação de procurar uma linha de ônibus ou metrô | Essencial para a navegação no aplicativo, permitindo que o usuário encontre informações detalhadas sobre uma linha específica, como horários, paradas, e rota completa. Isso melhora a usabilidade e a precisão da informação fornecida pelo Moovit |
-| Carona Paga | Objeto | Transporte por Aplicativo | Serviço de transporte privado oferecido por motoristas que utilizam aplicativos como Uber ou 99, onde o passageiro paga pela carona | A Carona Paga é integrada ao Moovit para fornecer aos usuários mais uma opção de transporte, especialmente em áreas com pouca oferta de transporte público. Essa função amplia as possibilidades de deslocamento e melhora a conveniência para o usuário |
-| Bicicleta Compartilhada | Objeto | Bike Compartilhada | Bicicletas disponíveis em estações específicas para serem alugadas por um tempo determinado, permitindo ao usuário devolver em qualquer estação do sistema | A Bicicleta Compartilhada contribui para a mobilidade sustentável e está integrada no Moovit como uma opção alternativa de transporte, especialmente útil para curtas distâncias. Ela é uma parte importante da oferta multimodal do aplicativo, complementando o transporte público |
-| Estação de Bicicletas Compartilhadas | Objeto | Ponto de Bicicletas Compartilhadas | Locais físicos onde bicicletas compartilhadas estão disponíveis para retirada e devolução por parte dos usuários | Importante para a integração de múltiplos modos de transporte no Moovit, oferecendo aos usuários uma alternativa ecológica e flexível para deslocamentos curtos. As informações sobre estas estações ajudam no planejamento de rotas multimodais e na escolha do transporte mais eficiente |
+| **Alertas** | Objeto | Notícias | Atualizações sobre o funcionamento do transporte público | Ajuda o usuário a estar informado sobre mudanças, interrupções e eventos que afetam o transporte público |
+| **Assinar Pacote Premium** | Verbo | Efetuar Pagamento | Ação de pagar por benefícios extras dentro do Moovit | O usuário pode usar o sistema para efetuar pagamento de assinatura, recebendo benefícios |
+| **Bicicleta Compartilhada** | Objeto | Bike Compartilhada | Bicicletas disponíveis em estações específicas para serem alugadas por um tempo determinado, permitindo ao usuário devolver em qualquer estação do sistema | A Bicicleta Compartilhada contribui para a mobilidade sustentável e está integrada no Moovit como uma opção alternativa de transporte, especialmente útil para curtas distâncias. Ela é uma parte importante da oferta multimodal do aplicativo, complementando o transporte público |
+| **Carona Paga** | Objeto | Transporte por Aplicativo | Serviço de transporte privado oferecido por motoristas que utilizam aplicativos como Uber ou 99, onde o passageiro paga pela carona | A Carona Paga é integrada ao Moovit para fornecer aos usuários mais uma opção de transporte, especialmente em áreas com pouca oferta de transporte público. Essa função amplia as possibilidades de deslocamento e melhora a conveniência para o usuário |
+| **Definir Destino** | Verbo | Inserir Destino | Ação de o usuário informar o local de destino desejado no Moovit para obter rotas, horários, e opções de transporte | Inserir Destino é um passo crucial para que o sistema possa calcular as melhores rotas e opções de transporte disponíveis. Afeta diretamente a experiência do usuário ao proporcionar informações personalizadas e precisas para o trajeto |
+| **Estação de Bicicletas Compartilhadas** | Objeto | Ponto de Bicicletas Compartilhadas | Locais físicos onde bicicletas compartilhadas estão disponíveis para retirada e devolução por parte dos usuários | Importante para a integração de múltiplos modos de transporte no Moovit, oferecendo aos usuários uma alternativa ecológica e flexível para deslocamentos curtos. As informações sobre estas estações ajudam no planejamento de rotas multimodais e na escolha do transporte mais eficiente |
+| **Favoritar** | Verbo | Salvar, Adicionar | Ação de marcar uma linha de transporte ou parada como favorita para acesso rápido | Facilita o acesso do usuário às suas linhas de transporte preferidas, melhorando a experiência de uso do sistema |
+| **Filtrar Rotas** | Verbo | Selecionar Rotas | Ação de aplicar critérios específicos para reduzir ou ajustar a lista de rotas disponíveis, mostrando apenas as que melhor atendem às necessidades do usuário | Crucial para melhorar a eficiência e experiência do usuário no Moovit, permitindo que ele encontre rapidamente a rota mais conveniente com base em preferências, como menor tempo de viagem, menos conexões, caminhar menos e preferência de modos de transporte |
+| **Linha de Transporte** | Objeto | Itinerário, Linha de Ônibus | Representa uma rota específica de um transporte público  | Permite ao usuário encontrar as rotas disponíveis para planejar suas viagens e acessar horários em tempo real |
+| **Localizar** | Verbo | Encontrar, Identificar | Ação de determinar a posição de um transporte público, estações de ônibus, a localização atual do usuário e estações de bicicletas compartilhadas | Essencial para a experiência do usuário no Moovit, permitindo que ele saiba onde está e onde precisa ir para acessar o transporte público |
+| **Mapa** | Objeto | Plano | Representação gráfica que exibe rotas, paradas, locais de transporte público e privado dentro de uma área geográfica, utilizada para orientar o usuário em suas jornadas | Essencial para a navegação e planejamento de viagens, o Mapa oferece uma visão geral e detalhada das opções de transporte, permitindo ao usuário visualizar e escolher a melhor rota ou serviço disponível. Ele é central na interface do Moovit, facilitando a interação com o sistema |
+| **Moovit** | Objeto | Aplicativo, Sistema | Software móvel instalado em dispositivos dos usuários para acessar serviços de transporte urbano | O aplicativo Moovit é a plataforma principal de interação, onde o usuário acessa todas as funcionalidades e informações do sistema |
+| **Mooviter** | Objeto | Editor | Usuário dedicado que ajuda a manter o mapa e as informações do Moovit atualizadas em diversas cidades | Garante que dados sobre rotas, paradas e horários estejam sempre atualizados e precisos para todos os usuários |
+| **Moovit+** | Objeto | Benefícios Premium | Serviço de assinatura premium do Moovit que oferece funcionalidades adicionais e exclusivas aos usuários, como informações em tempo real mais detalhadas, alertas personalizados, e ausência de anúncios | O Moovit+ melhora a experiência de uso ao proporcionar recursos avançados, incentivando a adesão a serviços pagos e gerando receita para a plataforma. Ele também aumenta a fidelidade dos usuários ao oferecer vantagens exclusivas e personalizadas |
+| **Parada** | Objeto | Ponto de Ônibus, Estação | Local designado onde os veículos de transporte público param para embarque e desembarque de passageiros | As paradas são essenciais para fornecer informações sobre onde o usuário pode pegar o transporte |
+| **Pesquisar por Linha** | Verbo | Buscar Linha | Ação de procurar uma linha de ônibus ou metrô | Essencial para a navegação no aplicativo, permitindo que o usuário encontre informações detalhadas sobre uma linha específica, como horários, paradas, e rota completa. Isso melhora a usabilidade e a precisão da informação fornecida pelo Moovit |
+| **Reportar** |  Verbo | Informar, Notificar | Ação de comunicar as condições de uma linha de transporte ou de uma estação, como atrasos, superlotação, ou problemas estruturais, diretamente através do Moovit | A função de Reportar permite que os usuários contribuam com a atualização em tempo real das condições do transporte público, melhorando a experiência de todos os usuários. Também ajuda a manter as informações do sistema precisas e a fornecer dados úteis para gestores de transporte e para outros usuários |
+| **Rota** | Objeto | Trajeto, Caminho | Caminho a partir da posição atual até o ponto de destino | Fundamental para o planejamento de viagens dos usuários, as rotas determinam quais trajetos estão disponíveis e como os passageiros podem chegar ao seu destino. O Moovit usa essa informação para fornecer recomendações de viagem e otimizar o tempo de deslocamento |
+| **Transporte Público** | Objeto | Transporte Coletivo | Sistema de transporte disponível para o público em geral, incluindo ônibus e metrô | Principal foco do Moovit, é base sobre o qual o aplicativo opera para fornecer informações e serviços aos usuários |
+| **Usuário** | Objeto | Passageiro | Pessoa que utiliza o sistema Moovit para planejar suas viagens e acessar informações sobre o transporte público | O usuário interage com todas as funcionalidades do sistema, desde a busca por rotas até o pagamento de tarifas |
 
 
 | Autores | Versão | Data |
