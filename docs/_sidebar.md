@@ -23,7 +23,7 @@
 
 
 * [Modelagem](./Modelagem/modelagem.md)
-    * [- Cenário e Léxico](./Elicitacao/CenarioLex.md)
+    * [- Cenário e Léxico](./Modelagem/CenarioLex.md)
     * [- Diagrama Caso de Uso](./Modelagem/diagrcasouso.md)
     * [- Especificação de Caso de Uso](./Modelagem/especificacaocasouso.md)
     * [- Especificação Suplementar](./Modelagem/especificacaosup.md)
