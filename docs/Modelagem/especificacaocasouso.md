@@ -71,3 +71,27 @@ O sistema notifica outros usuários que utilizam o mesmo serviço sobre o proble
 - Pós-condições: O problema reportado é recebido e encaminhado aos responsáveis, e outros usuários são notificados sobre o problema no transporte público.
 
 - Requisitos Associados: RF09
+
+## Caso de Uso: Atualizar Informações de Transporte Público
+- ID do Caso de Uso: UC002
+- Nome do Caso de Uso: Atualizar Informações de Transporte Público.
+- Objetivo: Permitir que o Mooviter atualize e mantenha as informações de transporte público, como horários de ônibus, novas rotas e mudanças em paradas.
+- Atores: Mooviter.
+- Pré-condições: O Mooviter deve estar logado no sistema e ter permissões para realizar as atualizações.
+- Fluxo Principal:
+O Mooviter acessa a seção de edição do aplicativo Moovit.
+O Mooviter escolhe a categoria de informação que deseja atualizar (ex: horários, rotas, paradas).
+O Mooviter insere as novas informações ou edita as informações existentes.
+O sistema verifica a consistência dos dados inseridos.
+O sistema salva as atualizações e as distribui para os usuários do Moovit.
+O Mooviter recebe uma confirmação de que as informações foram atualizadas com sucesso.
+- Fluxos Alternativos: Se as informações inseridas estiverem inconsistentes ou incompletas, o sistema solicita correções antes de salvar.
+- Pós-condições: As informações de transporte público são atualizadas no sistema e distribuídas para os usuários.
+- Requisitos Associados: RF09.
+
+[<p style="font-size:20px;">Baseline referễncia.</p>](../PreRastrea/Baseline.md)
+
+
+|Autor  | Versão          |Data|
+|-------|-----------------|----|
+|[Marcos Castilhos](https://github.com/Marcosatc147) e [Diego Carlito](https://github.com/DiegoCarlito)|1ª   |21/08/2024|
