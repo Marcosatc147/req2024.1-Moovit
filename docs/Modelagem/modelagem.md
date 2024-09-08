@@ -6,4 +6,4 @@ Modelagem em engenharia de requisitos é o processo de representar visualmente o
 [<p style="font-size:20px;">Especificação de Caso de Uso.</p>](./Modelagem/especificacaocasouso.md)
 [<p style="font-size:20px;">Especificação Suplementar.</p>](./Modelagem/especificacaosup)
 [<p style="font-size:20px;">NFR - Framework.</p>](../Modelagem/NFR-Framework.md)
-
+[<p style="font-size:20px;">iStar.</p>](../Modelagem/istar.md)
