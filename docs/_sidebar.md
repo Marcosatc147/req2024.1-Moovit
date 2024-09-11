@@ -38,6 +38,7 @@
     * [- Léxico](./Analise/lexico.md)
     * [- Backlog](./Analise/backlog.md)
     * [- Argumentação](./Analise/argumentacao.md)
+    * [- NFR](./Analise/nfr-framework.md)
 
 * [Pós-Rastreabildade]()
     * [- Backward-From](./PosRastrea/backward-From.md)
