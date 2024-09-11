@@ -104,5 +104,9 @@ Por exemplo, veja como "It1(P1, P2)" se relaciona com "i(P2)" e "C1(i(P4), i(P2)
 | C2 | C2/P1, C1(i(P4), i(P2)) | X | Adequadamente representada como contradição derivada de C1. |
 | Conclusão | P1(i(P2), i(P4)) | X | A conclusão está consistente com as informações representadas. |
 
+| Autor| Versão          |Data| Descrição |
+|------|-----------------|-----|---------- |
+|[Marcos Castilhos](https://github.com/Marcosatc147) | 1.0 |11/09/2024 | Inclusão da Análise de Argumentação|
+
 
 
