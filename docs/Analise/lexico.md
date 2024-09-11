@@ -89,4 +89,4 @@ Todos os itens do léxico atendem aos critérios estabelecidos pelo checklist, c
 
 | Autor  | Versão          |Data|
 |-------|-----------------|----|
-|[Márcio Henrique]|1ª   |08/09/2024|
+|Márcio Henrique|1ª   |08/09/2024|
