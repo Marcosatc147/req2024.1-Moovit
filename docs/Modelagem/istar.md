@@ -46,7 +46,7 @@ Após a primeira versão a equipe decidiu em cada integrante fazer um "estrela" 
 
 Após cada ator chave ter sido desenvolvido tivemos a versão final do "estrela" com contribuição geral da equipe.
 
-![Segunda Versão pedro](<../assets/istar/version2.0.png>)
+![Segunda Versão pedro](<../assets/istar/version2.png>)
 
 |Autor| Versão          |Data|
 |----|----|---------- |
