@@ -1,9 +1,9 @@
 ## Análise 
 
-[Cenário](../Analise/cenario.md)
+[Cenário](./Analise/cenario.md)
 
-[Léxico](../Analise/lexico.md)
+[Léxico](./Analise/lexico.md)
 
-[Backlog](../Analise/backlog.md)
+[Backlog](./Analise/backlog.md)
 
-[Argumentação](../Analise/argumentacao.md)
+[Argumentação](./Analise/argumentacao.md)
