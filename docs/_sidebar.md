@@ -30,3 +30,10 @@
     * [- NFR](./Modelagem/NFR-Framework.md)
 
 * [Ágil](./Agil/backlog.md)
+
+* [Análise](./Analise/analise.md)
+    
+
+* [Pós-Rastreabildade]()
+    * [- Backward-From](./PosRastrea/backward-From.md)
+    * [- Forward-From](./PosRastrea/forward-From.md)
