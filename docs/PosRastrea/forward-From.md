@@ -29,25 +29,6 @@ RF13 |Integrar soluções de IA para otimizar o planejamento e a operação dos 
 RF14 |Suportar modo offline para acessar informações básicas de rotas e paradas.|  ![aovivo](../assets/pos/offile.jpeg)  |  Baseline|
 RF15 |Fornecer suporte multilíngue para usuários de diferentes regiões.| ![aovivo](../assets/pos/linguistico.jpeg)   | Baseline |
 RF16 |Suportar integração com serviços de carona paga para fornecer opções de transporte.|  ![aovivo](../assets/pos/privado.jpeg)  | Baseline |
-=======
-[RF01](https://github.com/Marcosatc147/req2024.1-Moovit/blob/main/docs/PreRastrea/Baseline.md)| Permitir que os usuários busquem rotas de transporte público. |    |  |
-[RF02](https://github.com/Marcosatc147/req2024.1-Moovit/blob/main/docs/PreRastrea/Baseline.md)|Fornecer informações em tempo real sobre horários de chegada dos ônibus. |    |  |
-[RF03](https://github.com/Marcosatc147/req2024.1-Moovit/blob/main/docs/PreRastrea/Baseline.md)|Exibir diferentes rotas de transporte público disponíveis para um determinado destino. |    |  |
-[RF04](https://github.com/Marcosatc147/req2024.1-Moovit/blob/main/docs/PreRastrea/Baseline.md)|Permitir que os usuários visualizem a localização dos veículos de transporte público em tempo real.|    |  |
-[RF05](https://github.com/Marcosatc147/req2024.1-Moovit/blob/main/docs/PreRastrea/Baseline.md)|Fornecer informações sobre as linhas de transporte público e suas paradas. |    |  |
-[RF06](https://github.com/Marcosatc147/req2024.1-Moovit/blob/main/docs/PreRastrea/Baseline.md)|Permitir a navegação passo a passo para os usuários chegarem ao seu destino. |    |  |
-[RF07](https://github.com/Marcosatc147/req2024.1-Moovit/blob/main/docs/PreRastrea/Baseline.md)|Permitir que os usuários salvem suas linhas favoritas.|    |  |
-[RF08](https://github.com/Marcosatc147/req2024.1-Moovit/blob/main/docs/PreRastrea/Baseline.md)|Permitir que os usuários filtrem suas preferências de rotas e modos de transporte.|    |  |
-[RF09](https://github.com/Marcosatc147/req2024.1-Moovit/blob/main/docs/PreRastrea/Baseline.md) |Permitir que os usuários relatem problemas ou atualizações sobre rotas e horários.|    |  |
-[RF10](https://github.com/Marcosatc147/req2024.1-Moovit/blob/main/docs/PreRastrea/Baseline.md) |Fornecer dados de tráfego e condições das vias para melhor planejamento de rotas.|    |  |
-[RF11](https://github.com/Marcosatc147/req2024.1-Moovit/blob/main/docs/PreRastrea/Baseline.md)|Sistema de geolocalização para rastreamento preciso dos usuários e veículos.|    |  |
-[RF12](https://github.com/Marcosatc147/req2024.1-Moovit/blob/main/docs/PreRastrea/Baseline.md) |Permitir a personalização de notificações de horários e alertas de transporte.|    |  |
-[RF13](https://github.com/Marcosatc147/req2024.1-Moovit/blob/main/docs/PreRastrea/Baseline.md)  |Integrar soluções de IA para otimizar o planejamento e a operação dos transportes.|    |  |
-[RF14](https://github.com/Marcosatc147/req2024.1-Moovit/blob/main/docs/PreRastrea/Baseline.md) |Suportar modo offline para acessar informações básicas de rotas e paradas.|    |  |
-[RF15](https://github.com/Marcosatc147/req2024.1-Moovit/blob/main/docs/PreRastrea/Baseline.md) |Fornecer suporte multilíngue para usuários de diferentes regiões.|    |  |
-[RF16](https://github.com/Marcosatc147/req2024.1-Moovit/blob/main/docs/PreRastrea/Baseline.md)|Suportar integração com serviços de carona paga para fornecer opções de transporte.|    |  |
-[RF17](https://github.com/Marcosatc147/req2024.1-Moovit/blob/main/docs/PreRastrea/Baseline.md)|Integrar com serviços de bicicletas e patinetes compartilhados para exibir locais disponíveis.|    |  |
->>>>>>> 13f505f (atualizacao dos links nas tabelas posRastreabilidade)
 
 ## Tabela de Requisitos Não Funcionais
 
@@ -61,13 +42,3 @@ RNF04|O sistema deve seguir as condições de LGPD para a compra de assinaturas.
 RNF05|O sistema deve ser escalável sendo possível utilizar em qualquer região.|   Por ser um aplicativo global atendendo várias regiões esse requisito foi atendido  |  NFR004   |
 
 
-| Autor | Versão | Data|
-|--|---|---|
-|Todos os integrantes| 1ª| 11/09/2024|
-=======
-[RNF01](https://github.com/Marcosatc147/req2024.1-Moovit/blob/main/docs/PreRastrea/Baseline.md)| O sistema deve ser responsivo, adaptando-se a diferentes tamanhos de tela (dispositivos móveis e tablets).|     |     |
-[RNF02](https://github.com/Marcosatc147/req2024.1-Moovit/blob/main/docs/PreRastrea/Baseline.md) |O sistema deve ser compatível com as principais versões dos sistemas operacionais Android e iOS.|     |     |
-[RNF03](https://github.com/Marcosatc147/req2024.1-Moovit/blob/main/docs/PreRastrea/Baseline.md)|A interface do usuário deve ser intuitiva e fácil de usar, seguindo as diretrizes de design de UX/UI.|     |     |
-[RNF04](https://github.com/Marcosatc147/req2024.1-Moovit/blob/main/docs/PreRastrea/Baseline.md)|O sistema deve seguir as condições de LGPD para a compra de assinaturas.|     |     |
-[RNF05](https://github.com/Marcosatc147/req2024.1-Moovit/blob/main/docs/PreRastrea/Baseline.md)|O sistema deve ser escalável sendo possível utilizar em qualquer região.|     |     |
->>>>>>> 13f505f (atualizacao dos links nas tabelas posRastreabilidade)
