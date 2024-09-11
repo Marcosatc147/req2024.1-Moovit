@@ -33,6 +33,7 @@
 
 * [Análise](./Analise/analise.md)
     * [- Cenário](./Analise/cenario.md)
+    * [- Istar](./Analise/i-star.md)
     * [- Léxico](./Analise/lexico.md)
     * [- Backlog](./Analise/backlog.md)
     * [- Argumentação](./Analise/argumentacao.md)
