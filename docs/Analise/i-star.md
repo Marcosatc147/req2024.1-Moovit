@@ -41,3 +41,4 @@ Na tabela a seguir, um X indica que o diagrama cumpre o critério correspondente
 - Em alguns diagramas, a especificação dos recursos necessários para alcançar os objetivos está incompleta, afetando a clareza sobre como esses recursos serão utilizados.
 - A hierarquia dos objetivos, em certos casos, não está suficientemente detalhada, o que pode prejudicar a decomposição e compreensão dos mesmos.
 - Justificativas para a escolha de certas tarefas e contribuições não estão suficientemente claras, comprometendo a explicação das decisões de design.
+- A decomposição de alguns goals devem ser diretos para o objetivo do cumprimento da meta.

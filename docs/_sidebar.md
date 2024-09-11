@@ -32,3 +32,4 @@
 * [Ágil](./Agil/backlog.md)
 
 * [Análise](./Analise/analise.md)
+    [- Istar](./Analise/i-star.md)
