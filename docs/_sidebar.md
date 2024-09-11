@@ -32,4 +32,7 @@
 * [Ágil](./Agil/backlog.md)
 
 * [Análise](./Analise/analise.md)
+    * [- Cenário](./Analise/cenario.md)
+    * [- Léxico](./Analise/lexico.md)
+    * [- Backlog](./Analise/backlog.md)
     * [- Argumentação](./Analise/argumentacao.md)
