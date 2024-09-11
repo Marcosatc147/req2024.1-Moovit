@@ -57,6 +57,7 @@ A equipe de desenvolvimento participou da discussão sobre os itens a serem trab
 
 ### Análise de Backlog
 
+## Primeira Tabela
 | ID da US | Tipo | Prioridade | Completude da US | Critérios de Aceitação | Clareza e Detalhamento | Viabilidade Técnica | Alinhamento com Produto | Dependências | Definição de Pronto | Observações Gerais |
 |----------|------|------------|------------------|------------------------|------------------------|---------------------|--------------------------|--------------|--------------------|--------------------|
 | 1.1.1    | RF   | Alta       | (x) Sim ( ) Não   | (x) Sim ( ) Não         | (x) Sim ( ) Não         | (x) Sim ( ) Não      | (x) Sim ( ) Não           | (x) Sim ( ) Não | (x) Sim ( ) Não    | Nenhuma dependência. |
@@ -87,7 +88,48 @@ A equipe de desenvolvimento participou da discussão sobre os itens a serem trab
 | RNF04    | RNF  | Média      | (x) Sim ( ) Não   | (x) Sim ( ) Não         | (x) Sim ( ) Não         | (x) Sim ( ) Não      | (x) Sim ( ) Não           | (x) Sim ( ) Não | (x) Sim ( ) Não    | Nenhuma dependência crítica. |
 | RNF05    | RNF  | Alta       | (x) Sim ( ) Não   | (x) Sim ( ) Não         | (x) Sim ( ) Não         | (x) Sim ( ) Não      | (x) Sim ( ) Não           | (x) Sim ( ) Não | (x) Sim ( ) Não    | Completo. |
 
+
+
+
+## Segunda Tabela
+
+| ID da US | Tipo | Prioridade | Completude da US | Critérios de Aceitação | Clareza e Detalhamento | Viabilidade Técnica | Alinhamento com Produto | Dependências | Definição de Pronto | Observações Gerais |
+|----------|------|------------|------------------|------------------------|------------------------|---------------------|--------------------------|--------------|--------------------|--------------------|
+| 1.1.1    | RF   | Alta       | ( x ) Sim ( ) Não  | ( x ) Sim ( ) Não         | ( x ) Sim ( ) Não         | ( x ) Sim ( ) Não      | ( x ) Sim ( ) Não           | ( x ) Sim ( ) Não | (x) Sim ( ) Não    | Nenhuma dependência.|
+| 1.1.2    | RF   | Alta       | ( x ) Sim ( ) Não   | ( x ) Sim ( ) Não         | ( x ) Sim ( ) Não         | ( x ) Sim ( ) Não      | ( x ) Sim ( ) Não           | ( x ) Sim ( ) Não | (x) Sim ( ) Não    |Nenhuma dependência.|
+| 1.1.3    | RF   | Alta       | ( x ) Sim ( ) Não   | ( x ) Sim ( ) Não         | ( x ) Sim ( ) Não         | ( x ) Sim ( ) Não      | ( x ) Sim ( ) Não           | ( x ) Sim ( ) Não | (x) Sim ( ) Não    |Nenhuma dependência.|
+| 1.1.4    | RF   | Média      | ( x ) Sim ( ) Não   | ( x ) Sim ( ) Não         | ( x ) Sim ( ) Não         | ( x ) Sim ( ) Não      | ( x ) Sim ( ) Não           | ( x ) Sim ( ) Não | (x) Sim ( ) Não    |Nenhuma dependência|
+| 1.2.1    | RF   | Média      | ( x ) Sim ( ) Não   | ( ) Sim ( x ) Não         | ( x ) Sim ( ) Não         | ( x ) Sim ( ) Não      | ( x ) Sim ( ) Não           | ( ) Sim ( x ) Não | (x) Sim ( ) Não    |Necessário uma atenção nos Critérios de Aceitação.|
+| 1.2.2    | RF   | Alta       | ( x ) Sim ( ) Não   | ( x ) Sim ( ) Não         | ( x ) Sim ( ) Não         | ( ) Sim ( x ) Não      | ( x ) Sim ( ) Não           | ( x ) Sim ( ) Não | (x) Sim ( ) Não    |Necessário uma melhoria na Viabilidade Técnica.|
+| 2.1.1    | RF   | Alta       | ( x ) Sim ( ) Não   | ( x ) Sim ( ) Não         | ( x ) Sim ( ) Não         | ( x ) Sim ( ) Não      | ( x ) Sim ( ) Não           | ( x ) Sim ( ) Não | ( ) Sim (x) Não    |Revisão necessária.|
+| 2.1.2    | RF   | Alta       | ( x ) Sim ( ) Não   | ( x ) Sim ( ) Não         | ( x ) Sim ( ) Não         | ( ) Sim ( x ) Não      | ( ) Sim ( x ) Não           | ( x ) Sim ( ) Não | ( ) Sim (x) Não    |Requer uma boa revisão.|
+| 2.2.1    | RF   | Alta       | ( x ) Sim ( ) Não   | ( ) Sim ( x ) Não         | ( x ) Sim ( ) Não         | ( ) Sim ( x ) Não      | ( ) Sim ( x ) Não           | ( ) Sim ( x ) Não | ( ) Sim (x) Não    |Requer uma revisão geral.|
+| 2.2.2    | RF   | Média      | ( x ) Sim ( ) Não   | ( ) Sim ( x ) Não         | ( x ) Sim ( ) Não         | ( ) Sim ( x ) Não      | ( ) Sim ( x ) Não           | ( x ) Sim ( ) Não | (x) Sim ( ) Não    |Necessário ajustes.|
+| 3.1.1    | RF   | Alta       | ( x ) Sim ( ) Não   | ( x ) Sim ( ) Não         | ( x ) Sim ( ) Não         | ( x ) Sim ( ) Não      | ( x ) Sim ( ) Não           | ( ) Sim ( x ) Não | ( ) Sim (x) Não    |Verificar algumas dependências.|
+| 3.1.2    | RF   | Média      | ( x ) Sim ( ) Não   | ( ) Sim ( x ) Não         | ( x ) Sim ( ) Não         | ( ) Sim ( x ) Não      | ( ) Sim ( x ) Não           | ( ) Sim ( x ) Não | ( ) Sim (x) Não    |Necessário ser melhor detalhado.|
+| 3.2.1    | RF   | Alta       | ( x ) Sim ( ) Não   | ( ) Sim ( x ) Não         | ( x ) Sim ( ) Não         | ( ) Sim ( x ) Não      | ( ) Sim ( x ) Não           | ( ) Sim ( x ) Não | ( ) Sim (x) Não    |Requer uma revisão geral.|
+| 3.2.2    | RF   | Média      | ( x ) Sim ( ) Não   | ( ) Sim ( x ) Não         | ( x ) Sim ( ) Não         | ( ) Sim ( x ) Não      | ( ) Sim ( x ) Não           | ( ) Sim ( x ) Não | ( ) Sim (x) Não    |Requer uma revisão geral.|
+| 4.1.1    | RF   | Alta       | ( x ) Sim ( ) Não   | ( x ) Sim ( ) Não         | ( x ) Sim ( ) Não         | ( x ) Sim ( ) Não      | ( x ) Sim ( ) Não           | ( ) Sim ( x ) Não | ( ) Sim (x) Não    |Verificar possíveis dependências.|
+| 4.1.2    | RF   | Média      | ( x ) Sim ( ) Não   | ( x ) Sim ( ) Não         | ( x ) Sim ( ) Não         | ( x ) Sim ( ) Não      | ( x ) Sim ( ) Não           | ( x ) Sim ( ) Não | (x) Sim ( ) Não    |Nenhuma dependência.|
+| 4.2.1    | RF   | Alta       | ( x ) Sim ( ) Não   | ( x ) Sim ( ) Não         | ( x ) Sim ( ) Não         | ( x ) Sim ( ) Não      | ( x ) Sim ( ) Não           | ( x ) Sim ( ) Não | (x) Sim ( ) Não    |Nenhuma dependência.|
+| 4.2.2    | RF   | Média      | ( x ) Sim ( ) Não   | ( ) Sim ( x ) Não         | ( x ) Sim ( ) Não         | ( ) Sim ( x ) Não      | ( ) Sim ( x ) Não           | ( x ) Sim ( ) Não | (x) Sim ( ) Não    |Necessário revisar Viabilidade Técnica.|
+| 5.1.1    | RF   | Alta       | ( x ) Sim ( ) Não   | ( ) Sim ( x ) Não         | ( x ) Sim ( ) Não         | ( x ) Sim ( ) Não      | ( x ) Sim ( ) Não           | ( ) Sim ( x ) Não | ( ) Sim (x) Não    |Necessário verificar ajustes técnicos.|
+| 5.2.1    | RF   | Média      | ( x ) Sim ( ) Não   | ( x ) Sim ( ) Não         | ( x ) Sim ( ) Não         | ( x ) Sim ( ) Não      | ( x ) Sim ( ) Não           | ( x ) Sim ( ) Não | (x) Sim ( ) Não    |Completo.|
+| 5.3.1    | RF   | Alta       | ( x ) Sim ( ) Não   | ( x ) Sim ( ) Não         | ( x ) Sim ( ) Não         | ( ) Sim ( x ) Não      | ( x ) Sim ( ) Não           | ( ) Sim ( x ) Não | ( ) Sim (x) Não    |Necessário verificar dependência.|
+| 7.1.1    | RF   | Alta       | ( x ) Sim ( ) Não   | ( ) Sim ( x ) Não         | ( x ) Sim ( ) Não         | ( ) Sim ( x ) Não      | ( ) Sim ( x ) Não           | ( x ) Sim ( ) Não | (x) Sim ( ) Não    |Analisar Viabilidade Técnica.|
+| RNF01    | RNF  | Alta       | ( x ) Sim ( ) Não   | ( x ) Sim ( ) Não         | ( x ) Sim ( ) Não         | ( x ) Sim ( ) Não      | ( x ) Sim ( ) Não           | ( x ) Sim ( ) Não | (x) Sim ( ) Não    |Nenhuma pendência.|
+| RNF02    | RNF  | Média      | ( x ) Sim ( ) Não   | ( x ) Sim ( ) Não         | ( x ) Sim ( ) Não         | ( x ) Sim ( ) Não      | ( x ) Sim ( ) Não           | ( x ) Sim ( ) Não | (x) Sim ( ) Não    |Nenhuma pendência.|
+| RNF03    | RNF  | Alta       | ( x ) Sim ( ) Não   | ( x ) Sim ( ) Não         | ( x ) Sim ( ) Não         | ( x ) Sim ( ) Não      | ( x ) Sim ( ) Não           | ( x ) Sim ( ) Não | (x) Sim ( ) Não    |Nenhuma pendência.|
+| RNF04    | RNF  | Média      | ( x ) Sim ( ) Não   | ( x ) Sim ( ) Não         | ( x ) Sim ( ) Não         | ( x ) Sim ( ) Não      | ( x ) Sim ( ) Não           | ( x ) Sim ( ) Não | (x) Sim ( ) Não    |Nenhuma pendência.|
+| RNF05    | RNF  | Alta       | ( x ) Sim ( ) Não   | ( x ) Sim ( ) Não         | ( x ) Sim ( ) Não         | ( x ) Sim ( ) Não      | ( x ) Sim ( ) Não           | ( x ) Sim ( ) Não | (x) Sim ( ) Não    |Nenhuma pendência.|
+
 ### Explicação
 - Para requisitos funcionais (RF), as US com maior completude foram marcadas como "Sim".
 - Dependências e critérios de aceitação para alguns itens ainda precisam ser melhorados.
 - Requisitos não funcionais (RNF) estão bem detalhados, e a maioria está completa.
+
+
+|Autor  | Versão          |Data|
+|-------|-----------------|----|
+|Márcio Henrique| 1ª   |10/09/2024|
+|[Pedro Paulo](https://github.com/Pedrin0030)|1ª   |10/09/2024|
