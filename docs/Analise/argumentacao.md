@@ -3,22 +3,31 @@
 # Análise
 
 ## Identificando as Proposições: 
-Verifica-se que cada nó do grafo identifica as proposições (P1, P2, P3, P4). Elas representam os pontos de vista ou hipóteses que estão sendo discutidas.
+Verifica-se que cada nó do grafo identifica as proposições (P1, P2, P3, P4).
+
+Elas representam os pontos de vista ou hipóteses que estão sendo discutidas.
 Identificando as Interpretações e Conclusões:
+
 Os nós em azul no grafo representam instâncias de proposições (i).
+
 Os nós verdes representam interpretações (It).
+
 Os nós vermelhos representam contradições (C) ou conflitos.
+
 Os nós amarelos representam preferências (P).
 
 ## Análise das Relações:
 Verificando como as proposições (P1, P2, P3, P4) se relacionam com as interpretações e conclusões.
+
 Como cada interpretação ou conclusão é formada com base nas proposições.
 
 ### Complementaridade de Proposições:
 - P1 e P2 podem ser complementares, ou seja, podem fornecer informações que se completam mutuamente. Por exemplo, uma proposição pode estabelecer uma ideia inicial, enquanto a outra pode fornecer uma justificativa ou evidência adicional para a ideia.
+
 No grafo, a junção de P1 e P2 em um nó de interpretação (It(i(P1), i(P2))) sugere que, para entender completamente o argumento ou a situação em questão, é necessário considerar ambas as proposições em conjunto.
 
 - P3 e P4 parecem tratar de aspectos opostos de uma mesma decisão estratégica: uma decisão simplificaria a implementação (foco apenas no transporte público), enquanto a outra aumentaria a complexidade do sistema (integração com serviços de empresas privadas).
+
 Essas proposições são complementares na medida em que oferecem dois lados da mesma moeda — o impacto da escolha entre focar somente em transporte público versus integrar serviços privados. Portanto, analisá-las juntas ajuda a entender o trade-off entre simplicidade e complexidade.
 
 
@@ -27,6 +36,7 @@ Essas proposições são complementares na medida em que oferecem dois lados da 
 condição ou requisito para P2, ou vice-versa.
 
 - A interpretação conjunta dessas proposições ajuda a entender como uma pode influenciar ou ser influenciada pela outra.
+
 Existe uma relação de dependência lógica inversa entre P3 e P4. Se a proposição P3 ("focar apenas no transporte público") for verdadeira e escolhida como uma decisão estratégica, P4 ("integrar serviços de empresas privadas") naturalmente se torna menos relevante, pois esta integração não estaria nos planos.
 
 - Portanto, a interpretação conjunta permite ver que a escolha de uma proposição implica a exclusão ou diminuição da relevância da outra.
