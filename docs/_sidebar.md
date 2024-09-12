@@ -28,6 +28,7 @@
     * [- Especificação de Caso de Uso](./Modelagem/especificacaocasouso.md)
     * [- Especificação Suplementar](./Modelagem/especificacaosup.md)
     * [- NFR](./Modelagem/NFR-Framework.md)
+    * [- Istar](./Modelagem/istar.md)
 
 * [Ágil](./Agil/backlog.md)
 
@@ -35,6 +36,7 @@
     * [- Cenário](./Analise/cenario.md)
     * [- Istar](./Analise/i-star.md)
     * [- Especificação caso de uso](./Analise/especificacao-caso.md)
+    * [- Diagrama de caso de uso](./Analise/diagrama.md)
     * [- Léxico](./Analise/lexico.md)
     * [- Backlog](./Analise/backlog.md)
     * [- Argumentação](./Analise/argumentacao.md)
