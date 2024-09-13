@@ -9,6 +9,8 @@
 
     * [Entrega 2](./Entregas/Entrega2.md)
 
+    * [Entrega 3](./Entregas/Entrega3.md)
+
 * [Visão do Produto](./VisaoProduto/visaoProduto.md)
 
 * [Pré-Rastreabilidade](./PreRastrea/Pre-rastreabilidade.md) 
