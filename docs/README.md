@@ -80,7 +80,7 @@ Ao decorrer da maturidade do projeto iremos utilizar as tecnologias e ferramenta
 <div class="col-sm team-member">
         <img src="https://github.com/DeM4rcio.png" alt="Márcio Sousa" class="img-thumbnail image">
         <div class="middle">
-            <a href="https://github.com/DeM4rcio.png" style="text-decoration:none">
+            <a href="https://github.com/DeM4rcio" style="text-decoration:none">
                 <div class="text">Márcio Henrique</div>
             </a>
         </div>
@@ -102,7 +102,7 @@ Ao decorrer da maturidade do projeto iremos utilizar as tecnologias e ferramenta
     <div class="col-sm team-member">
         <img src="https://github.com/DiegoCarlito.png" alt="Diego Carlito" class="img-thumbnail image">
         <div class="middle">
-            <a href="https://github.com/joaoseisei" style="text-decoration:none">
+            <a href="https://github.com/DiegoCarlito" style="text-decoration:none">
                 <div class="text">Diego Carlito</div>
             </a>
         </div>
